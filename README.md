@@ -1,7 +1,5 @@
 # 🍔🍴Greetings! <br>
 
-## About me <br>
-
 ### Education
 🤓I'm currently an undergraduate in CompSci degree, at Tunku Abdul Rahman University <br>
 
