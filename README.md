@@ -1,16 +1,5 @@
 # 🍔🍴Greetings! <br>
 
-### Education
-🤓I'm currently an undergraduate in CompSci degree, at Tunku Abdul Rahman University <br>
-
-### Career goal?
-🤔Currently no solid path yet, and I'm interested in using/laern skills that can contribute or make an impact for people. <br>
-
-### Interest? 
-*how is interest relevant in a github readme...* 
-🍔CheeseBurger
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_doburuchizubaga) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Juicy-DoubleCheese) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dennischong03@gmail.com) 
 
@@ -25,6 +14,16 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ChizuBaga&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ChizuBaga&icon=10&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ChizuBaga&icon=10&color=3)](https://visitcount.itsvg.in) <br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### Education
+🤓I'm currently an undergraduate in CompSci degree, at Tunku Abdul Rahman University <br>
+
+### Career goal?
+🤔Currently no solid path yet, and I'm interested in using/laern skills that can contribute or make an impact for people. <br>
+
+### Interest? 
+*how is interest relevant in a github readme...* 
+🍔CheeseBurger
