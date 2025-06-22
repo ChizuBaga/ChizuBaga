@@ -1,16 +1,14 @@
-## Hi there 👋
+#🍔🍴Greetings! <br>
 
-<!--
-**ChizuBaga/ChizuBaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me <br>
 
-Here are some ideas to get you started:
+### Education
+🤓I'm currently an undergraduate in CompSci degree, at Tunku Abdul Rahman University <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Career goal?
+🤔Currently no solid path yet, and I'm interested in using/laern skills that can contribute or make an impact for people. <br>
+
+### Interest? 
+*how is interest relevant in a github readme...* 
+🍔CheeseBurger
+
