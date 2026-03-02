@@ -1,10 +1,1 @@
-# 🍔🍴Greetings! <br>
-
-
-## Education
-🤓I'm currently an undergraduate in CompSci degree, at Tunku Abdul Rahman University <br>
-
-## Career goal?
-🤔Currently no solid path yet, and I'm interested in using/learn skills that can contribute or make an impact for people. <br>
-
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
