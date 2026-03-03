@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&customColorList=26&height=300&section=header&text=Hii!-nl-I'm%20Dennis&fontSize=90)
+![header](https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&customColorList=26&height=250&section=header&text=Hii!-nl-I'm%20Dennis&fontSize=69)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=93F9B9&width=435&lines=Tech+Stack)](https://git.io/typing-svg)
 
