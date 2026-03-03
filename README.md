@@ -13,11 +13,12 @@
 #!/bin/bash
 
 # Introduction
-echo "Name: Dennis Chong"
+echo "Name: Dennis"
 echo "Age: 23"
 echo -e "Role: Year 3 Computer Science Undergraduate, \n All rounder ability"
+echo "Hobby: Story Games & badminton"
 
-# Last updated: 3/3/2026
+# Last updated: 4/3/2026
 ```
 
 
